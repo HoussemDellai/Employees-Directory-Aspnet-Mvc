@@ -1,0 +1,42 @@
+﻿@model EmployeesDirectoryDemo.Models.Employee
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Employee</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Department.DepartmentName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Department.DepartmentName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Fullname)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Fullname)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CIN)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CIN)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
