@@ -11,8 +11,8 @@ The application then will show a ComboBox that will display all the available de
 
 </br>
 
-You can watch a video demo on Youtube:
+You can watch a video demo on Youtube: <a href="https://www.youtube.com/watch?v=wBs6OtfaTxU">https://www.youtube.com/watch?v=wBs6OtfaTxU</a>
 
 <a href="https://www.youtube.com/watch?v=wBs6OtfaTxU">
-<img src="https://github.com/HoussemDellai/Employees-Directory-Aspnet-Mvc/blob/master/Items/extension%20demo.png?raw=true"/>
+<img width="60%" src="https://github.com/HoussemDellai/Employees-Directory-Aspnet-Mvc/blob/master/Items/extension%20demo.png?raw=true"/>
 </a>
