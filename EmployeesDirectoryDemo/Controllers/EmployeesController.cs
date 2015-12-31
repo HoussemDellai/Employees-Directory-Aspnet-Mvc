@@ -58,6 +58,7 @@ namespace EmployeesDirectoryDemo.Controllers
             }
 
             ViewBag.DepartmentId = new SelectList(db.Departments, "Id", "DepartmentName", employee.DepartmentId);
+
             return View(employee);
         }
 

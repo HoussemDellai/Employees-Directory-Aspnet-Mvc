@@ -18,7 +18,6 @@ namespace EmployeesDirectoryDemo.Models
 
         public int DepartmentId { get; set; }
 
-
         public int CIN { get; set; }
     }
 }
