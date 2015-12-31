@@ -16,3 +16,7 @@ You can watch a video demo on Youtube: <a href="https://www.youtube.com/watch?v=
 <a href="https://www.youtube.com/watch?v=wBs6OtfaTxU">
 <img width="60%" src="https://github.com/HoussemDellai/Employees-Directory-Aspnet-Mvc/blob/master/Items/extension%20demo.png?raw=true"/>
 </a>
+
+</br>
+
+And you can install the extension from the Visual Studio Gallery : <a href="https://visualstudiogallery.msdn.microsoft.com/781e4550-da9c-4006-aa6e-8b223cb4cd48">https://visualstudiogallery.msdn.microsoft.com/781e4550-da9c-4006-aa6e-8b223cb4cd48</a>
