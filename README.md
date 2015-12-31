@@ -8,3 +8,11 @@
 The application then will show a ComboBox that will display all the available departments to select from and associate with the employee:  
 </br>
 <img src="https://github.com/HoussemDellai/Employees-Directory-Aspnet-Mvc/blob/master/Items/employeecreate.png?raw=true" alt="" /></p>
+
+</br>
+
+You can watch a video demo on Youtube:
+
+<a href="https://www.youtube.com/watch?v=wBs6OtfaTxU">
+<img src="https://github.com/HoussemDellai/Employees-Directory-Aspnet-Mvc/blob/master/Items/extension%20demo.png?raw=true"/>
+</a>
